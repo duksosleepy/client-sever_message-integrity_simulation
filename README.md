@@ -1,0 +1,1 @@
+Note that you must create a 3 fake certificate such as: alice's certificate, bob's certificate and CA's certificate by using certificate.py and create 2 pair key for a client and server as alice and bob by using generatekey.py. Run client and server code in two different Command Line(CLI) 
